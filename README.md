@@ -4,6 +4,7 @@ Some time you want custom reposity mongodb of spring framework, queryDsl is a ch
 reference http://www.querydsl.com
 this project use gradle and springboot 
 in file gradle.build
+
 buildscript {
     ext {
         springBootVersion = '1.2.4.RELEASE'
