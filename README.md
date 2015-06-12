@@ -2,7 +2,7 @@
 Project using spring boot and query dsl
 Some time you want custom reposity mongodb of spring framework, queryDsl is a choice perfectly 
 reference http://www.querydsl.com this project use gradle and springboot
-int file build.gradle
+in file build.gradle
 ```
 buildscript {
     ext {
